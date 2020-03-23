@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ogochieshe.pettazz.com/sitemap.xml
